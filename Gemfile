@@ -27,7 +27,10 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # dotenv gem for security
-  gem "dotenv-rails"
+gem "dotenv-rails"
+
+# gem cloudinary
+gem "cloudinary"
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
